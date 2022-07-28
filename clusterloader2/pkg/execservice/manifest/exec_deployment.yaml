@@ -15,4 +15,4 @@ spec:
     spec:
       containers:
       - name: agnhost
-        image: hub.chinauos.com/jzy-test/e2e-agnhost:2.32
+        image: 10.30.38.116/library/e2e-agnhost:2.32
